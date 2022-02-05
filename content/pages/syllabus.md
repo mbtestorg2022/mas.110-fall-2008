@@ -30,44 +30,429 @@ Britt, David, ed. _Modern Art: Impressionism to Post-Modernism_. New York, NY: T
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Paper and making marks on it {{< br >}}{{< br >}} Typography, technology, and perception {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Look at type, on hard- and softcopy {{< br >}}{{< br >}} In-class exercise, "making letters" {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | Video screening: [_Helvetica_](http://www.imdb.com/title/tt0847817/) by Gary Hustwit | &nbsp; |
-| 5 | Discuss essay 1 | Essay 1 due |
-| 6 | Continued discussion of type | &nbsp; |
-| 7 | Continued discussion of essay 1 | &nbsp; |
-| 8 | Temporal and sequential media | &nbsp; |
-| 9 | Discuss exercise 1 | Exercise 1 due |
-| 10 |  {{< br >}}{{< br >}} Guest lecturer: Walter Bender {{< br >}}{{< br >}} Color: physics, psychophysics, and aesthetics {{< br >}}{{< br >}}  | &nbsp; |
-| 11 | How electronic displays work and why we care | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} Guest lecturer: Walter Bender {{< br >}}{{< br >}} Color: physics, psychophysics, and aesthetics (cont.) {{< br >}}{{< br >}} Discuss [OLPC XO](http://www.laptop.org/) (One Laptop Per Child) hardware and the [Sugar environment](http://wiki.laptop.org/go/Category:Sugar) {{< br >}}{{< br >}}  | &nbsp; |
-| 13 | Discuss OLPC XO machine design | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} Hand out XOs {{< br >}}{{< br >}} Discuss first Python/Pygame example programs {{< br >}}{{< br >}}  | &nbsp; |
-| 15 | Modern art | &nbsp; |
-| 16 | Discuss exercise 2 | Exercise 2 due |
-| 17 | More modern art | &nbsp; |
-| 18 | Discuss sound on the XO | &nbsp; |
-| 19 | Discuss essay 2 | Essay 2 due |
-| 20 | Discuss essay 2 (cont.) | &nbsp; |
-| 21 | Discuss exercise 3 | Exercise 3 due |
-| 22 | Discuss exercise 4 / essay 3 | Exercise 4 / essay 3 due |
-| 23 | Discuss essay 3 (cont.) | Final project proposal (one page, text and/or sketch) due |
-| 24 |  {{< br >}}{{< br >}} "Final project clinic" {{< br >}}{{< br >}} In-class exercise: GTK Csound (aka exercise 5) {{< br >}}{{< br >}}  | &nbsp; |
-| 25 | To be announced | &nbsp; |
-| 26 | Presentation of student work — invite your friends! |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paper and making marks on it
+
+Typography, technology, and perception
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Look at type, on hard- and softcopy
+
+In-class exercise, "making letters"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Video screening: [_Helvetica_](http://www.imdb.com/title/tt0847817/) by Gary Hustwit
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Continued discussion of type
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Continued discussion of essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Temporal and sequential media
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss exercise 1
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest lecturer: Walter Bender
+
+Color: physics, psychophysics, and aesthetics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+How electronic displays work and why we care
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest lecturer: Walter Bender
+
+Color: physics, psychophysics, and aesthetics (cont.)
+
+Discuss [OLPC XO](http://www.laptop.org/) (One Laptop Per Child) hardware and the [Sugar environment](http://wiki.laptop.org/go/Category:Sugar)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss OLPC XO machine design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hand out XOs
+
+Discuss first Python/Pygame example programs
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Modern art
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss exercise 2
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+More modern art
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss sound on the XO
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss essay 2
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss essay 2 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss exercise 3
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss exercise 4 / essay 3
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise 4 / essay 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss essay 3 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Final project proposal (one page, text and/or sketch) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Final project clinic"
+
+In-class exercise: GTK Csound (aka exercise 5)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+To be announced
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of student work — invite your friends!
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 20% |
-| Papers | 30% |
-| Exercises | 30% |
-| Final project | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Papers
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exercises
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Papers that are late and unexcused in advance will be penalized by one-half of a letter grade for each day late. If you need an extension, please tell the instructor at least one week ahead of time. You will select one paper for revision and resubmission, and the grade for the resubmitted paper will replace the grade for the original.
 

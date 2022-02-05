@@ -16,31 +16,379 @@ Britt, David, ed. _Modern Art: Impressionism to Post-Modernism_. New York, NY: T
 Readings by Lecture
 -------------------
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Paper and making marks on it {{< br >}}{{< br >}} Typography, technology, and perception {{< br >}}{{< br >}}  | Carter, chapter 7 |
-| 3 |  {{< br >}}{{< br >}} Look at type, on hard- and softcopy {{< br >}}{{< br >}} In-class exercise, "making letters" {{< br >}}{{< br >}}  | Carter, chapter 1 (please bring Carter to class today) |
-| 4 | Video screening: [_Helvetica_](http://www.imdb.com/title/tt0847817/) by Gary Hustwit | &nbsp; |
-| 5 | Discuss essay 1 | Standage, chapters 1-5 |
-| 6 | Continued discussion of type | Carter, chapters 2-4 (please feel free to read further) |
-| 7 | Continued discussion of essay 1 | &nbsp; |
-| 8 | Temporal and sequential media | &nbsp; |
-| 9 | Discuss exercise 1 | Standage, chapter 6 through epilogue |
-| 10 |  {{< br >}}{{< br >}} Guest lecturer: Walter Bender {{< br >}}{{< br >}} Color: physics, psychophysics, and aesthetics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Britt, chapter 1 {{< br >}}{{< br >}} Jacobson, N., and W. Bender. "[Color as a Determined Communication](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5387199)." {{< br >}}{{< br >}} Explore [Apple Computer's color pages](http://web.archive.org/web/20101220202550/http://www.apple.com/pro/color/) {{< br >}}{{< br >}}  |
-| 11 | How electronic displays work and why we care | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} Guest lecturer: Walter Bender {{< br >}}{{< br >}} Color: physics, psychophysics, and aesthetics (cont.) {{< br >}}{{< br >}} Discuss [OLPC XO](http://www.laptop.org/) (One Laptop Per Child) hardware and the [Sugar environment](http://wiki.laptop.org/go/Category:Sugar) {{< br >}}{{< br >}}  | &nbsp; |
-| 13 | Discuss OLPC XO machine design | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} Hand out XOs {{< br >}}{{< br >}} Discuss first Python/Pygame example programs {{< br >}}{{< br >}}  | &nbsp; |
-| 15 | Modern art | Britt, chapters 2-3 |
-| 16 | Discuss exercise 2 | &nbsp; |
-| 17 | More modern art | Britt, chapters 4-5 (feel free to read further if you wish) |
-| 18 | Discuss sound on the XO | Manuals for CsoundXO and CsoundXO Python (see [exercise 3]({{< baseurl >}}/pages/assignments)) |
-| 19 | Discuss essay 2 | &nbsp; |
-| 20 | Discuss essay 2 (cont.) | &nbsp; |
-| 21 | Discuss exercise 3 | &nbsp; |
-| 22 | Discuss exercise 4 / essay 3 | &nbsp; |
-| 23 | Discuss essay 3 (cont.) | &nbsp; |
-| 24 |  {{< br >}}{{< br >}} "Final project clinic" {{< br >}}{{< br >}} In-class exercise: GTK Csound (aka exercise 5) {{< br >}}{{< br >}}  | &nbsp; |
-| 25 | To be announced | &nbsp; |
-| 26 | Presentation of student work — invite your friends! |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paper and making marks on it
+
+Typography, technology, and perception
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Carter, chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Look at type, on hard- and softcopy
+
+In-class exercise, "making letters"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Carter, chapter 1 (please bring Carter to class today)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Video screening: [_Helvetica_](http://www.imdb.com/title/tt0847817/) by Gary Hustwit
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+Standage, chapters 1-5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Continued discussion of type
+{{< tdclose >}}
+{{< tdopen >}}
+Carter, chapters 2-4 (please feel free to read further)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Continued discussion of essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Temporal and sequential media
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss exercise 1
+{{< tdclose >}}
+{{< tdopen >}}
+Standage, chapter 6 through epilogue
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest lecturer: Walter Bender
+
+Color: physics, psychophysics, and aesthetics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Britt, chapter 1
+
+Jacobson, N., and W. Bender. "[Color as a Determined Communication](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5387199)."
+
+Explore [Apple Computer's color pages](http://web.archive.org/web/20101220202550/http://www.apple.com/pro/color/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+How electronic displays work and why we care
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest lecturer: Walter Bender
+
+Color: physics, psychophysics, and aesthetics (cont.)
+
+Discuss [OLPC XO](http://www.laptop.org/) (One Laptop Per Child) hardware and the [Sugar environment](http://wiki.laptop.org/go/Category:Sugar)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss OLPC XO machine design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hand out XOs
+
+Discuss first Python/Pygame example programs
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Modern art
+{{< tdclose >}}
+{{< tdopen >}}
+Britt, chapters 2-3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss exercise 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+More modern art
+{{< tdclose >}}
+{{< tdopen >}}
+Britt, chapters 4-5 (feel free to read further if you wish)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss sound on the XO
+{{< tdclose >}}
+{{< tdopen >}}
+Manuals for CsoundXO and CsoundXO Python (see [exercise 3]({{< baseurl >}}/pages/assignments))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss essay 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss essay 2 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss exercise 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss exercise 4 / essay 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss essay 3 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Final project clinic"
+
+In-class exercise: GTK Csound (aka exercise 5)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+To be announced
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of student work — invite your friends!
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
